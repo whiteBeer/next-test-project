@@ -7,6 +7,7 @@ export default function Home() {
         <div className="flex flex-col space-y-3 py-10 text-blue-500">
           <Link href="/">Home page</Link>
           <Link href="/another-page">Another page</Link>
+          <Link href="/isr-page">ISR page</Link>
         </div>
       </main>
     </div>
